@@ -1,0 +1,91 @@
+.index-ref{
+
+	background-color: #AFEEEE;
+	position: relative;
+	margin-top: 50px;
+	margin-right: 50px;
+	margin-bottom: 150px;
+	margin-left: 50px;
+}
+
+#nav-fond{
+
+
+}
+
+body.front-page{
+	background-color: #000000;
+}
+
+div.i-foot{
+	width: 20px;
+	opacity: 0.8;
+	color: white;
+	background-image: url("Amphitheater.jpg");
+	position: absolute;
+	left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100px;
+  color: white;
+  text-align: center;
+
+}
+span#event{
+	opacity: 0.5;
+	color: white;
+	background-color: #0000ff;
+	position: absolute;
+	left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 30px;
+  color: white;
+  text-align: center;
+}
+hr{
+	display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: 40%;
+  margin-right: 40%;
+  border: 8px solid blue;
+  color: blue;
+
+}
+
+.in-group{
+
+	text-align: center;
+	margin-top: 50px;
+	margin-right: 20px;
+	margin-bottom: 80px;
+	margin-left: auto;
+
+
+
+}
+
+.in-form{
+
+	size:80px;
+	margin-top: 30px;
+	margin-right: 60px;
+	margin-bottom: 20px;
+	margin-left: auto;
+}
+
+
+input[type=text], input[type=password]{
+		width: 550px
+		height: 100px;		
+		margin-left:0;
+}
+
+#hd2{
+	font-size: 1.8em;
+}
+#hd3{
+	font-size: 1.2em;
+}
+
